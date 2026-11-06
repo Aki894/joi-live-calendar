@@ -8,6 +8,10 @@ ICS calendar feed for 轴伊 Joi_Channel's weekly Bilibili livestreams, auto-upd
 
 iPhone: Settings > Apps > Calendar > Calendar Accounts > Add Account > Other > Add Subscribed Calendar, then paste this URL:
 
+https://ics.nanao.eu.org/joi.ics
+
+This is served by GitHub Pages on a custom domain and is directly reachable in China. Backup URL (may not be reachable from some networks):
+
 https://raw.githubusercontent.com/Aki894/joi-live-calendar/main/joi.ics
 
 ## Source / 来源
