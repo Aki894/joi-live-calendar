@@ -14,6 +14,8 @@ This is served by GitHub Pages on a custom domain and is directly reachable in C
 
 https://raw.githubusercontent.com/Aki894/joi-live-calendar/main/joi.ics
 
+When a new weekly schedule is posted, the .ics file is updated in this repo and GitHub Pages redeploys it automatically — no need to re-subscribe.
+
 ## Source / 来源
 
 - Streamer: 轴伊Joi_Channel (Bilibili UID 61639371)
