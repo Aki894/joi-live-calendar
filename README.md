@@ -23,3 +23,7 @@ When a new weekly schedule is posted, the .ics file is updated in this repo and 
 - This week (11.2~11.9): https://www.bilibili.com/opus/1266075600616947763
 
 Events are 2 hours long (assumption) with a reminder 3 minutes before the stream starts. All times are Asia/Taipei.
+
+## Maintenance / 维护
+
+Weekly updates are pushed automatically with a dedicated SSH deploy key that only has access to this repository.
