@@ -20,7 +20,7 @@ When a new weekly schedule is posted, the .ics file is updated in this repo and 
 
 - Streamer: 轴伊Joi_Channel (Bilibili UID 61639371)
 - Weekly schedule topic: 轴轴轴周表
-- This week (11.9~11.15): https://www.bilibili.com/opus/1268567995927494657
+- This week (11.16~11.22): https://www.bilibili.com/opus/1271538438240206848
 
 Events are 2 hours long (assumption) with a reminder 3 minutes before the stream starts. All times are Asia/Taipei.
 
